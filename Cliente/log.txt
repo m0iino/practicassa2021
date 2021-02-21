@@ -1,0 +1,3 @@
+2021-02-20 18:15:48.295633 {'id': 1, 'descripcion': 'Chalupa', 'idRestaurante': 1, 'idRepartidor': 1, 'idCliente': 1, 'estado': 0} 
+2021-02-20 18:15:48.295633 id pedido: 1 id cliente: 1 estado: 0 
+2021-02-20 18:15:48.295633pedido agregado
