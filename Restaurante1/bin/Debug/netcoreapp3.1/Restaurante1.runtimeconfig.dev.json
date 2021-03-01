@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Moino\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Moino\\.nuget\\packages"
+    ]
+  }
+}
