@@ -1,0 +1,4 @@
+2021-02-28 21:15:22.889700 {'id': 1, 'descripcion': 'Chalupa', 'idRestaurante': 1, 'idRepartidor': 1, 'idCliente': 1, 'estado': 0} 
+2021-02-28 21:15:22.889700 id pedido: 1 id cliente: 1 estado: 0 
+2021-02-28 21:15:22.889700pedido agregado
+{'id': 10, 'descripcion': 'Tacos', 'idrestaurante': 10, 'idrepartidor': 10, 'idcliente': 11, 'estado': 0}

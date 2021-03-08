@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZkMVDn4yHZ4JkaQi4snLZSuAdMMRT+gr4sNdHXdOyBPApsghqyAWXvJvgnulWq1krqN+INzyrWr5ddXC+JIpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moino\\Documents\\1er2021\\sa\\lab\\practica5\\ESBRestaurante\\ESBRestaurante\\ESBRestaurante.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moino\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\Moino\\.nuget\\packages\\flurl.http\\2.4.2\\flurl.http.2.4.2.nupkg.sha512",
+    "C:\\Users\\Moino\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Moino\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Moino\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Moino\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
