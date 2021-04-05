@@ -1,0 +1,34 @@
+version: "3"
+
+services:
+  server-eleccion:
+    container_name: server-eleccion
+    build:
+      context: C:\\Users\\Moino\\Documents\\1er2021\\sa\\lab\\practica8
+    restart: always
+    ports:
+      - 80:3000
+    volumes:
+      - type: bind
+        source: C:\\Users\\Moino\\Documents\\1er2021\\sa\\lab\\practica8server
+        target: /usr/src/app/server
+    command: bash -c "npm run start"
+
+  db-mysql:
+    image: mysql:5.7
+    container_name: db-mysql
+    environment:
+      - MYSQL_DATABASE=practica8
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=1234
+    volumes:
+      - type: volume
+        source: db_persistent_data
+        target: /var/lib/mysql
+        volume:
+         nocopy: true
+
+volumes:
+    db_persistent_data:
+      driver: local
